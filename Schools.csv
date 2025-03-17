@@ -1,0 +1,251 @@
+username,password,school,user_role
+anandabalikavidyalaya001,ABVColombo#001,"1. Ananda Balika Vidyalaya, Colombo, Colombo",student
+anandacollege002,ACColombo#002,"2. Ananda College, Colombo",student
+asokacollege003,ACColombo#003,"3. Asoka College, Colombo",student
+devibalikavidyalaya004,DBVColombo#004,"4. Devi Balika Vidyalaya, Colombo",student
+dssenanayakecollege005,DSSCColombo#005,"5. D.S. Senanayake College, Colombo",student
+gothamibalikavidyalaya006,GBVColombo#006,"6. Gothami Balika Vidyalaya, Colombo",student
+hinducollege007,HCColombo#007,"7. Hindu College, Colombo",student
+isipathanacollege008,ICColombo#008,"8. Isipathana College, Colombo",student
+mahanamacollege009,MCColombo#009,"9. Mahanama College, Colombo",student
+muslimladiescollege010,MLCColombo#010,"10. Muslim Ladies College, Colombo",student
+nalandacollege011,NCColombo#011,"11. Nalanda College, Colombo",student
+ramanathanhinduladiescollege012,RHLCColombo#012,"12. Ramanathan Hindu Ladies College, Colombo",student
+rathnawalibalikavidyalaya013,RBMVColombo#013,"13. Rathnawali Balika Maha Vidyalaya, Colombo",student
+royalcollege014,RCColombo#014,"14. Royal College, Colombo",student
+sirimavobandaranaikevidyalaya015,SBBVColombo#015,"15. Sirimavo Bandaranaike Balika Vidyalaya, Colombo",student
+stpaulsgirlsschool016,SPGSColombo#016,"16. St Paul’s Girls School, Colombo",student
+thurstoncollege017,TCColombo#017,"17. Thurston College, Colombo",student
+visakhavidyalaya018,VVColombo#018,"18. Visakha Vidyalaya, Colombo",student
+lumbinicollege019,LCColombo#019,"19. Lumbini College, Colombo",student
+mahindarajapakshavidyalaya020,MRVHomagama#020,"20. Mahinda Rajapaksha Vidyalaya, Homagama",student
+rathnavalibalikavidyalaya021,RBMVGampaha#021,"21. Rathnavali Balika MV, Gampaha",student
+bandaranayakevidyalaya022,BVGampaha#022,"22. Bandaranayaka Vidyalaya, Gampaha",student
+viharamahadevibalika023,VMDBVKiribathgoda#023,"23. Vihara Maha Devi Balika Vidyalaya, Kiribathgoda",student
+anulavidyalaya024,AVNugegoda#024,"24. Anula Vidyalaya, Nugegoda",student
+dharmapalavidyalaya025,DVPannipitiya#025,"25. Dharmapala Vidyalaya, Pannipitiya",student
+bandaranayakecentralcollege026,BCCVeyangoda#026,"26.Bandaranayake Central College, Veyangoda",student
+princeofwalescollege027,POWCMoratuwa#027,"27.Prince of Wales’ College, Moratuwa",student
+sridharmalokacollege028,SDC#028,28.Sri Dharmaloka Collage,student
+yashodaradevibalikamahavidyalaya029,YDBMVGampaha#029,29.Yashodara Devi Balika Maha Vidyalaya - Gampaha,student
+kotahenacentralcollege030,KCCKotahena#030,30.Kotahena Central College,student
+srisangabodhinationalcollege031,SSNC#031,31.Sri Sangabodhi National College,student
+thakshilacollege032,TCGampaha#032,32.Thakshila College Gampaha,student
+presidentscollege033,PC#033,33.President's College,student
+andiambalamamahavidyalaya034,AMVAndiambalama#034,34.Andiambalama Maha Vidyalaya,student
+srisubhuthinationalschool035,SSNS#035,35.SRI Subhuthi National school,student
+harischandracollege036,HC#036,36.Harischandra College,student
+boysmodelcollege037,BMCMalabe#037,"37.Boys' Model College, Malabe",student
+hameedalhusseiniecollege038,HAHC#038,38.Hameed Al Husseinie College,student
+kelanimahavidyalaya039,KMV#039,39.Kelani Maha Vidyalaya,student
+anandasastralaya040,ASKotte#040,"40.Ananda Sastralaya, Kotte",student
+siyanenationalschool041,SNS#041,41.Siyane National School,student
+stpaulsbalikamahavidyalaya042,SPBMVKelaniya#042,"42.St. Paul's Balika Maha Vidyalaya , Kelaniya",student
+galahitiyawacentralcollege043,GCCGanemulla#043,"43.Galahitiyawa Central College, Ganemulla",student
+newsteadgirlscollege044,NGCNegombo#044,"44.Newstead Girls College, Negombo",student
+gurukulacollege045,GCKelaniya#045,"45.Gurukula College, Kelaniya",student
+nalandaboyscentralcollege046,NBCCMinuwangoda#046,"46.Nalanda (Boys') Central College, Minuwangoda",student
+dssenanayakecentralcollege047,DSSCCMirigama#047,"47.D. S. Senanayake Central College, Mirigama",student
+henegamacentralcollege048,HCCHenegama#048,"48.Henegama Central College - National School, Henegama",student
+stanthonyscollege049,SACWattala#049,"49.St. Anthony's College, Wattala",student
+nalandagirlscentralcollege050,NGCCMinuwangoda#050,"50.Nalanda (Girls') Central College, Minuwangoda",student
+presidentscollege051,PCMinuwangoda#051,"51.President's College, Minuwangoda",student
+bomiriyacentralcollege052,BCCKaduwela#052,"52.Bomiriya Central College, Bomiriya, Kaduwela.",student
+srirajasinghecentral053,SRCMulleriyawa#053,"53.SRI RAJASINGHE CENTRAL , MULLERIYAWA",student
+kolonnawagirlscollege054,KGC#054,54.Kolonnawa Girl's College,student
+hanwellarajasinghecentralcollege055,HRCC#055,55.Hanwella Rajasinghe Central College,student
+seethawakanationalschool056,SNS#056,56.Seethawaka National School,student
+piliyandalacentralcollege057,PCCPiliyandala#057,57.Piliyandala Central College,student
+presbyteriangirlsschool058,PGSDehiwala#058,58.Presbyterian Girls' School Dehiwala,student
+centralcollege059,CCHomagama#059,59.Central College Homagama,student
+princessofwalescollege060,POWC#060,60.Princess of Wales' College,student
+sciencecollege061,SCMountLavinia#061,"61.Science College, Mount Lavinia",student
+lalithathulathmudalicollege062,LACMountLavinia#062,"62.Lalith Athulathmudali College, Mount Lavinia",student
+sripangnanandavidyalaya063,SPVKotugoda#063,"63.Sri Pangnananda Vidyalaya, Kotugoda",student
+christkingcollege064,CKCTudella#064,"64.Christ King College, Tudella",student
+almubarakcentralcollege065,AMCCMalwana#065,"65.Al-Mubarak Central College, Malwana",student
+senarathparanawithanamahavidyalaya066,SPMVUdugampola#066,"66.Senarath Paranawithana Maha Vidyalaya, Udugampola",student
+srichandrajothimahavidyalaya067,SCMVYakkala#067,"67.Sri Chandrajothi Maha Vidyalaya, Yakkala",student
+anuramadhyamahavidyalaya068,AMMVYakkala#068,"68.Anura Madhya Maha Vidyalaya, Yakkala",student
+maddumabandaramahavidyalaya069,MBMVWeliweriya#069,"69.Madduma Bandara Maha Vidyalaya, Weliweriya",student
+rajasinghemahavidyalaya070,RMVImbulgoda#070,"70.Rajasinghe Maha Vidyala, Imbulgoda",student
+alasharmuslimmahavidyalaya071,AAMMVThihariya#071,"71.Al Ashar Muslim Maha Vidyalaya, Thihariya",student
+presidentscollege072,PCVeyangoda#072,"72.President's College, Veyangoda",student
+urapolamadhyamahavidyalaya073,UMMVUrapola#073,"73.Urapola Madhya Maha Vidyalaya, Urapola",student
+kirindiwelamadhyamahavidyalaya074,KMMVKirindiwela#074,"74.Kirindiwela Madhya Maha Vidyalaya, Kirindiwela",student
+padmawathiemadhyamahavidyalaya075,PMMVDekatan#075,"75.Padmawathie Madhya Maha Vidyalaya, Dekatan",student
+stpeterscollege076,SPCNegombo#076,"76.St Peter’s College, Negombo",student
+alhilalmuslimcentralcollege077,AHMCCNegombo#077,"77.Al Hilal Muslim Central College, Negombo",student
+wijayaratnamhinducentralcollege078,WHCCNegombo#078,"78.Wijayaratnam Hindu Central College, Negombo",student
+stmaryscollege079,SMCNegombo#079,"79.St. Mary’s College, Negombo",student
+kochchikademahavidyalaya080,KMVKochchikade#080,"80.Kochchikade Maha Vidyalaya, Kochchikade",student
+nirmalamariyabalikamahavidyalaya081,NMBMVJaEla#081,"81.Nirmala Mariya Balika Maha Vidyalaya, Ja Ela",student
+stsebastiansbalikamahavidyalaya082,SSBMVKandana#082,"82.St. Sebastian's Balika Maha Vidyalaya, Kandana",student
+stsebastianscollege083,SSCKandana#083,"83.St. Sebastian’s College, Kandana",student
+basilicacollege084,BCRagama#084,"84.Basilica College, Ragama",student
+batuwattamahavidyalaya085,BMVRagama#085,"85.Batuwatta Maha Vidyalaya, Ragama",student
+jinarajamahavidyalaya086,JMVJaEla#086,"86.Jinaraja Maha Vidyalaya, Ja Ela",student
+dutugamunumahavidyalaya087,DMVThimbirigaskotuwa#087,"87.Dutugamunu Maha Vidyalaya, Thimbirigaskotuwa",student
+davisamaramahavidyalaya088,DSMVSeeduwa#088,"88.Davi Samara Maha Vidyalaya, Seeduwa",student
+deshamanyahkdharamadasamahavidyalaya089,DHKDMVPeliyagoda#089,"89.Deshamanya H.K Dharamadasa Maha Vidyalaya, Peliyagoda",student
+goodsheperdbalikamahavidyalaya090,GSBMVWattala#090,"90.Good Sheperd Balika Maha Vidyalaya, Wattala",student
+stannesbalikamahavidyalaya091,SABMVWattala#091,"91.St. Anne's Balika Maha Vidyalaya, Wattala",student
+heenkendamahavidyalaya092,HMVRagama#092,"92.Heenkenda Maha Vidyalaya, Ragama",student
+vishakabalikamahavidyalaya093,VBMVMakola#093,"93.Vishaka Balika Maha Vidyalaya, Makola",student
+sapugaskandamahavidyalaya094,SMVMakola#094,"94.Sapugaskanda Maha Vidyalaya, Makola",student
+mahamayabalikamahavidyalaya095,MBMVKadawatha#095,"95.Mahamaya Balika Maha Vidyalaya, Kadawatha",student
+biyagamamadhyamahavidyalaya096,BMMVBiyagama#096,"96.Biyagama Madhya Maha Vidyalaya, Biyagama",student
+daranagamamahavidyalaya097,DMVSiyambalape#097,"97.Daranagama Maha Vidyalaya, Siyambalape",student
+kadawathamadhyamahavidyalaya098,KMMVKadawatha#098,"98.Kadawatha Madhya Maha Vidyalaya, Kadawatha",student
+skksooriyaarachchimahavidyalaya099,SKKSMVKadawatha#099,"99.S.K.K Sooriyaarachchi Maha Vidyalaya, Kadawatha",student
+kirillawalamadhyamahavidyalaya100,KMMVKadawatha#100,"100.Kirillawala Madhya Maha vidyalaya, Kadawatha",student
+burullapitiyamahavidyalaya101,BMVMinuwangoda#101,"101.Burullapitiya Maha Vidyalaya, Minuwangoda",student
+dewalapolaanandamahavidyalaya102,DAMVDewalapola#102,"102.Dewalapola Ananda Maha Vidyalaya, Dewalapola",student
+pallewelamahavidyalaya103,PMVPallewela#103,"103.Pallewela Maha Vidyalaya, Pallewela",student
+pasyalamahavidyalaya104,PMVPasyala#104,"104.Pasyala Maha Vidyalya, Pasyala",student
+cwwkannangaramahavidyalaya105,CWWKMVHunumulla#105,"105.C.W.W Kannangara Maha Vidyalaya, Hunumulla",student
+srignanodayamadhyamahavidyalaya106,SGMMVDivulapitiya#106,"106.Sri Gnanodaya Madhya Maha Vidyalaya, Divulapitiya",student
+kalutaravidyalaya107,KVKKalutara#107,107.Kalutara Vidyalaya,student
+kalutarabalikavidyalaya108,KBVKalutara#108,"108.Kalutara Balika Vidyalaya, Kalutara",student
+tissacentralcollege109,TCCKalutara#109,"109.Tissa Central College, Kalutara",student
+zahiracollege110,ZCDDhargaTown#110,"110.Zahira College, Dharga Town",student
+saddhathissacollege111,SCCBandaragama#111,"111.Saddhathissa College, Bandaragama",student
+dssenanayakecentralcollege112,DSSCCBeruwala#112,"112.D.S Senanayake Central College, Beruwala",student
+alhumaisaranationalschool113,AHNSBeruwala#113,"113.Al-Humaisara National School, Beruwala",student
+srisumangalacollege114,SSCPanadura#114,"114.Sri Sumangala College, Panadura",student
+stjohnscollege115,SJCPanadura#115,"115.St. John's College, Panadura",student
+srisumangalagirlscollege116,SSGCPandura#116,"116.Sri Sumangala Girls College, Pandura",student
+miriswattanationalschool117,MNSDodangoda#117,"117.Miriswatta National School, Dodangoda",student
+horanaroyalcollege118,HRCHorana#118,"118.Horana Royal College, Horana",student
+taxilacentralcollege119,TCCHorana#119,"119.Taxila Central College, Horana",student
+sripaleecollege120,SPCHorana#120,"120.Sri Palee College, Horana",student
+bandaragamanschool121,BNSBandaragama#121,"121.Bandaragama National School, Bandaragama",student
+bulathsinhalacentralcollege122,BCCBulathsinhala#122,"122.Bulathsinhala Central College, Bulathsinhala",student
+anandasastralaya123,ASMatugama#123,"123.Ananda Sastralaya, Matugama",student
+cwwkannangaramadyamahavidyalaya124,CWWKMMVMathugama#124,"124.C. W. W. Kannangara Madya Maha Vidyalaya, Mathugama",student
+panaduraroyalcollege125,PRCPanadura#125,125.Panadura Royal College,student
+agamathibalikavidyalaya126,ABVPanadura#126,126.Agamathi Balika Vidyalaya Panadura,student
+gnanodayamahavidyalaya127,GMVKalutaraSouth#127,"127.Gnanodaya Maha Vidyalaya, Kalutara South",student
+gurulugomimahavidyalaya128,GMVKalutaraNorth#128,"128.Gurulugomi Maha Vidyalaya, Kalutara North",student
+muslimcentralcollege129,MCCKalutaraSouth#129,"129.Muslim Central College, Kalutara South",student
+katukurundadharmapalamahavidyalaya130,KDMVKatukurunda#130,"130.Katukurunda Dharmapala Maha Vidyalaya, Katukurunda",student
+alfahariamuslimcentralcollege131,AFMCPandura#131,"131.Al Faharia Muslim Central College, Pandura",student
+jeelancentralcollege132,JCCPandura#132,"132.Jeelan Central College, Pandura",student
+mahanamacollege133,MCCollegePandura#133,"133.Mahanama College, Pandura",student
+pandurabalikamahavidyalaya134,PBMPandura#134,"134.Pandura Balika Maha Vidyalaya, Pandura",student
+wadduwamadhyamahavidyalaya135,WMMWadduwa#135,"135.Wadduwa Madhya Maha Vidyalaya, Wadduwa",student
+srignanissaramahavidyalaya136,SGMDT#136,"136.Sri Gnanissara Maha Vidyalaya, Dharga Town",student
+naleemhajiarmuslimbalikavidyalaya137,NHMBVBeruwala#137,"137.Naleem Hajiar Muslim Balika Vidyalaya, Beruwala",student
+zamrefaijahiarmahavidyalaya138,ZRHMVBeruwala#138,"138.Zam Refai Hajiar Maha Vidyalaya, Beruwala",student
+pothuwilamahavidyalaya139,PWMVPayagala#139,"139.Pothuwila Maha Vidyalaya, Payagala",student
+zahiramuslimmahavidyalaya140,ZMMVDhargaTown#140,"140.Zahira Muslim Maha Vidyalaya, Dharga Town",student
+bombuwalasridharmalokamahavidyalaya141,BSDMVBombuwala#141,"141.Bombuwala Sri Dharmaloka Maha Vidyalaya, Bombuwala",student
+donpedrickmahavidyalaya142,DPMVHorana#142,"142.Don Pedrick Maha Vidyalaya, Horana",student
+prajapathibaliamahavidyalaya143,PPBMVHorana#143,"143.Prajapathi Balia Maha Vidyalaya, Horana",student
+srimedhankaramahavidyalaya144,SMHVHorana#144,"144.Sri Medhankara Maha Vidyalaya, Horana",student
+gaminimadhyamahavidyalayay145,GMMVIngiriya#145,"145.Gamini Madhya Maha Vidyalaya, Ingiriya",student
+palannoruwacentralcollege146,PCCGonapolaJunction#146,"146.Palannoruwa Central College, Gonapola Junction",student
+srisaddhathissamahavidyalaya147,SSMBandaragama#147,"147.Sri Saddhatissa Maha Vidyalaya, Bandaragama",student
+wewitamaithreemahavidyalaya148,WMMVBandaragama#148,"148.Wewita Maithree Maha Vidyalaya, Bandaragama",student
+warakagodamahavidyalaya149,WMMVNeboda#149,"149.Warakagoda Maha Vidyalaya, Neboda",student
+stmaryscollege150,SMCMatugama#150,"150.St. Mary's College, Matugama",student
+walagedaramahavidyalaya151,WMMVWalagedara#151,"151.Walagedara Maha Vidyalaya, Walagedara",student
+mihindumadhyamahavidyalaya152,MMMVAgala#152,"152.Mihindu Madhya Maha Vidyalaya, Agalawatta",student
+kamburawalamahavidyalaya153,KMMVBaduraliya#153,"153.Kamburawala Maha Vidyalaya, Baduraliya",student
+colvinrdesilvamahavidyalaya154,CRDMMVIttapana#154,"154.Colvin R. De Silva maha Vidyalaya, Ittapana",student
+merilkariyawasammadhyamahavidyalaya155,MKMVMeeghathenna#155,"155.Meril Kariyawasam Madhya Maha Vidyalaya, Meegahathenna",student
+bishopscollage156,BCColombo#156,"156.Bishop's College, Colombo",student
+burhaniserandibschool157,BSSColombo#157,"157.Burhani Serandib School, Colombo",student
+buddhistladiescollege158,BLCColombo#158,"158.Buddhist Ladies' College, Colombo",student
+careycollegecolombo159,CCCColombo#159,"159.Carey College, Colombo, Colombo",student
+ladiescollege160,LCColombo#160,"160.Ladies' College, Colombo",student
+conventofourladyofvictories161,COLVMoratuwa#161,"161.Convent of Our lady of Victories, Moratuwa",student
+elizabethmoirschool162,EMSColombo#162,"162.Elizabeth Moir School, Colombo",student
+goodshepherdconvent163,GSCColombo#163,"163.Good Shepherd Convent, Colombo",student
+gatewaycollege164,GCDDehiwala#164,164.Gateway College Dehiwala,student
+gatewaycollege165,GCCColombo#165,165.Gateway College Colombo,student
+hinduladiescollege166,HLCColombo#166,"166.Hindu Ladies College, Colombo",student
+holyfamilyconvent167,HFCBambalapitiya#167,"167.Holy Family Convent, Bambalapitiya",student
+holyfamilyconvent168,HFCDehiwala#168,"168.Holy Family Convent, Dehiwela",student
+kanzacollege169,KCCColombo#169,"169.Kanza College, Colombo",student
+kebelcollege170,KCNugegoda#170,"170.Kebel College, Nugegoda",student
+logoscollege171,LCColombo#171,"171.Logos College, Colombo",student
+louvrecollege172,LCPannipitiya#172,"172.Louvre College, Pannipitiya",student
+louvrecollege173,LCNGoda#173,"173.Louvre College, Nugegoda",student
+methodistcollege174,MCCColombo#174,"174.Methodist College, Colombo",student
+musaeuscollege175,MCColombo#175,"175.Musaeus College, Colombo",student
+ncefbuddhistcollege176,NCBMulleriyawa#176,"176.NCEF Buddhist College, Mulleriyawa",student
+spectrumcollege177,SCMountLavinia#177,"177.Spectrum College, Mount Lavinia",student
+stlawrencesconvent178,SLCColombo#178,"178.St. Lawrence's Convent, Colombo",student
+stbenedictscollege179,SBCColombo#179,"179.St. Benedict's College, Colombo",student
+minasrocollege180,MCPMathugama#180,"180.Minasro College, Pelawatta, Mathugama",student
+stpeterscollege181,SPCColombo#181,"181.St. Peter's College, Colombo",student
+stsebastianscollege182,SSCMoratuwa#182,"182.St. Sebastian's College, Moratuwa",student
+stbridgetsconvent183,SBCColombo#183,"183.St. Bridget's Convent, Colombo",student
+stthomascollege184,STCMountLavinia#184,"184.St. Thomas' College, Mount Lavinia",student
+sujathavidyalaya185,SVNugegoda#185,"185.Sujatha Vidyalaya, Nugegoda",student
+stjosephsboyscollege186,SJBNugegoda#186,"186.St. Joseph's Boys' College, Nugegoda",student
+sussexcollege187,SCNugegoda#187,"187.Sussex College, Nugegoda",student
+springfieldcollege188,SFCCColombo#188,"188.Springfield College, Colombo",student
+highlandscollege189,HCMaharagama#189,"189.Highlands College, Maharagama",student
+viduracollege190,VCNawala#190,"190.Vidura College, Nawala",student
+wesleycollege191,WCColombo#191,"191.Wesley College, Colombo",student
+almanarinternationalschool192,AMISCColombo#192,"192.Al Manar International School, Colombo",student
+alexorinternationalschool193,AISCColombo#193,"193.Alexor International School, Colombo",student
+amalinternationalschool194,AISColombo#194,"194.Amal International School, Colombo",student
+appleinternationalschool195,AISColombo#195,"195.Apple International School, Colombo",student
+asianinternationalschool196,AISCColombo#196,"196.Asian International School, Colombo",student
+aceinstituteinternationalschool197,AIISCColombo#197,"197.ACE Institute International School, Colombo",student
+belvoircollegeinternational198,BCICColombo#198,"198.Belvoir College International, Colombo",student
+bondinternationalschool199,BISCColombo#199,"199.Bond International School, Colombo",student
+brightensinternationalschool200,BISCColombo#200,"200.Brightens International School, Colombo",student
+buckinghaminternationalschool201,BISCColombo#201,"201.Buckingham International School, Colombo",student
+brisbaneinternational202,BINSNugegoda#202,"202.Brisbane International School, Nugegoda",student
+britishschool203,BSCColombo#203,203.British School in Colombo,student
+cambridgeinternationalschool204,CISCColombo#204,"204.Cambridge International School, Colombo",student
+campbellinternationalschool205,CISCColombo#205,"205.Campbell International School, Colombo",student
+campbellinternationalschool206,CISKotiku#206,"206.Campbell International School, Kotikawatta",student
+colombointernationalschool207,CISCColombo#207,"207.Colombo International School, Colombo",student
+colombointernationalschool208,CISCColombo#208,"208.Crescent Schools International, Colombo",student
+crescentschoolsinternational209,CSICColombo#209,"209.Crescent Schools International, Wellampitiya",student
+crescentschoolsinternational210,CSIWWellampitiya#210,"210.Colombo South International College, Nugegoda",student
+colombosouthinternationalcollege211,CSICNugegoda#211,"211.Dhilshaath International College, Dematagoda",student
+dhilshaathinternationalcollege212,DICDematagoda#212,"212.East Asian International College, Nugegoda",student
+eastasianinternationalcollege213,EAICNugegoda#213,"213.Eskola International School, Colombo",student
+eskolainternationalschool214,EISCColombo#214,"214.Global International School, Colombo",student
+globalinternationalschool215,GISCColombo#215,"215.Green Bridge International College, Kolonnawa",student
+greenbridgeinternationalcollege216,GBICKolonnawa#216,"216.Guidance International School, Piliyandala",student
+guidanceinternationalschool217,GISPiliyandala#217,"217.Harcourts International School, Dehiwala",student
+harcourtsinternationalschool218,HISDehiwala#218,"218.Hejaaz International School, Mount Lavinia",student
+hejaazinternationalschool219,HISMountLavinia#219,"219.Horizon College International, Malabe",student
+horizoncollegeinternational220,HCIMalabe#220,"220.Horizon College International, Nugegoda",student
+hilburninternationalschool221,HISAvissawella#221,"221.Hilburn International School, Avissawella",student
+ikrainternationalschool222,IISCColombo#222,"222.Ikra International School, Colombo",student
+ikrainternationalschool223,IISKolonnawa#223,"223.Ikra International School, Kolonnawa",student
+ilmainternationalgirlsschool224,IIGSColombo#224,"224.Ilma International Girls' School, Colombo",student
+jmcinternationalschool225,JISCColombo#225,"225.J.M.C. International School, Colombo",student
+jmcinternationalschool226,JISKaduwela#226,"226.J.M.C. International School, Kaduwela",student
+jmcinternationalschool227,JISMaharagama#227,"227.J.M.C. International School, Maharagama",student
+jmcinternationalschool228,JISMulleriyawa#228,"228.J.M.C. International School, Mulleriyawa",student
+kingstoncollegeinternational229,KCWWellawatta#229,"229.Kingston College International, Wellawatta",student
+kingstoncollegeinternational230,KCColombo#230,"230.Kingston College International, Colombo",student
+kingstoncollegeinternational231,KCMountLavinia#231,"231.Kingston College International, Mount Lavinia",student
+lakelandinternationalamericanschool232,LIASRatmalana#232,"232.Lakeland International American School, Ratmalana",student
+leadthewaygirlsinternational233,LTWGIDehiwala#233,"233.Lead the Way Girls' International, Dehiwala",student
+leedsinternationalschool234,LISPPiliyandala#234,"234.Leeds International School, Piliyandala",student
+libertyinternationalschool235,LISColombo#235,"235.Liberty International School, Colombo",student
+libertyinternationalschool236,LISEthulKotte#236,"236.Liberty International School, Ethul Kotte",student
+lyceuminternationalschool237,LISNugegoda#237,"237.Lyceum International School, Nugegoda",student
+linfieldinternationalschool238,LISMortuwa#238,"238.Linfield International School, Mortuwa",student
+linfieldinternationalschool239,LISPPiliyandala#239,"239.Linfield International School, Piliyandala",student
+linfieldinternationalschool240,LISPPannipitiya#240,"240.Linfield International School, Pannipitiya",student
+linfieldinternationalschool241,LISGodagama#241,"241.Linfield International School, Godagama",student
+mdgunasenainternationalschool242,MDGISCColombo#242,"242.M.D Gunasena International School, Colombo",student
+mysticleroseinstitutointernationalschool243,MRIISEthulotte#243,"243.Mysticle Rose Institute International School, Ethulotte",student
+readwayinternationalcollegeofeducation244,RICEDematagoda#244,"244.Readway International College of Education, Dematagoda",student
+royalinstituteinternationalschoola245,RIINugegoda#245,"245.Royal Institute International School, Nugegoda",student
+royalinstituteinternationalschool246,RIICColombo#246,"246.Royal Institute International School, Colombo",student
+royalinstituteinternationalschool247,RIIMaharagama#247,"247.Royal Institute International School, Maharagama",student
+schoolofartsandscience248,SAASCColombo#248,"248.School of Arts and Science, Colombo",student
+staffordinternationalschool249,SISCColombo#249,"249.Stafford International School, Colombo",student
+wycherleyinternationalschool250,WISCColombo#250,"250.Wycherley International School, Colombo",student
